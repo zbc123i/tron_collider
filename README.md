@@ -28,7 +28,7 @@
 
 ![](./collider.png)
 
-Telegram: https://t.me/yzily
+Telegram: https://t.me/Smellcoder
 
 
 ### 波场靓号生成器程序
