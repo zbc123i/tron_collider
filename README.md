@@ -34,5 +34,3 @@ Telegram: https://t.me/Smellcoder
 ### 波场靓号生成器程序
 <a href="https://github.com/au389a/batch_generate_tron_address" target="_blank">波场靓号生成器程序</a>
 
-### 波场钱包源码
-<a href="https://github.com/au389a/tron-wallet" target="_blank">波场钱包源码</a>
